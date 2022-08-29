@@ -10,4 +10,3 @@
 Most of my repositories are private. If you'd like to contact me, you can do so:
 
 - **Discord:** thew#2626
-- **Email:** 
