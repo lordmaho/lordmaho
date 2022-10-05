@@ -7,6 +7,4 @@
 
 ---
 
-Most of my repositories are private. If you'd like to contact me, you can do so:
-
-- **Discord:** thew#2626
+Most of my repositories are private. If you'd like to contact me please email **matt [at] matthewholandez [dot] me**
